@@ -1,1 +1,1 @@
-Open ReadMe.doc to see a word document demo.
+Open ReadMe.docx to see a word document demo.
